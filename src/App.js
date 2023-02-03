@@ -12,7 +12,7 @@ import {
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
-  pageSize=6;
+  pageSize=9;
   apiKey="53cedeeb30dd419a814545884a3a13c5"
   state={  //object 
     progress:0
